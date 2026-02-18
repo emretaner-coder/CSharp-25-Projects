@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Emre TANER\\Documents\\GitHub\\csharp-25-projects\\Not_Kayit_Sistemi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{640EFBC0-086A-4B57-A0C9-251971DB48AA}|Not_Kayit_Sistemi\\Not_Kayit_Sistemi.csproj|c:\\users\\emre taner\\documents\\github\\csharp-25-projects\\not_kayit_sistemi\\not_kayit_sistemi\\frmogrencidetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{640EFBC0-086A-4B57-A0C9-251971DB48AA}|Not_Kayit_Sistemi\\Not_Kayit_Sistemi.csproj|solutionrelative:not_kayit_sistemi\\frmogrencidetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{640EFBC0-086A-4B57-A0C9-251971DB48AA}|Not_Kayit_Sistemi\\Not_Kayit_Sistemi.csproj|c:\\users\\emre taner\\documents\\github\\csharp-25-projects\\not_kayit_sistemi\\not_kayit_sistemi\\frmogrencidetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{640EFBC0-086A-4B57-A0C9-251971DB48AA}|Not_Kayit_Sistemi\\Not_Kayit_Sistemi.csproj|solutionrelative:not_kayit_sistemi\\frmogrencidetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{640EFBC0-086A-4B57-A0C9-251971DB48AA}|Not_Kayit_Sistemi\\Not_Kayit_Sistemi.csproj|c:\\users\\emre taner\\documents\\github\\csharp-25-projects\\not_kayit_sistemi\\not_kayit_sistemi\\frmgiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{640EFBC0-086A-4B57-A0C9-251971DB48AA}|Not_Kayit_Sistemi\\Not_Kayit_Sistemi.csproj|solutionrelative:not_kayit_sistemi\\frmgiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{640EFBC0-086A-4B57-A0C9-251971DB48AA}|Not_Kayit_Sistemi\\Not_Kayit_Sistemi.csproj|c:\\users\\emre taner\\documents\\github\\csharp-25-projects\\not_kayit_sistemi\\not_kayit_sistemi\\frmgiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{640EFBC0-086A-4B57-A0C9-251971DB48AA}|Not_Kayit_Sistemi\\Not_Kayit_Sistemi.csproj|solutionrelative:not_kayit_sistemi\\frmgiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{640EFBC0-086A-4B57-A0C9-251971DB48AA}|Not_Kayit_Sistemi\\Not_Kayit_Sistemi.csproj|c:\\users\\emre taner\\documents\\github\\csharp-25-projects\\not_kayit_sistemi\\not_kayit_sistemi\\frmogretmendetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{640EFBC0-086A-4B57-A0C9-251971DB48AA}|Not_Kayit_Sistemi\\Not_Kayit_Sistemi.csproj|solutionrelative:not_kayit_sistemi\\frmogretmendetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{640EFBC0-086A-4B57-A0C9-251971DB48AA}|Not_Kayit_Sistemi\\Not_Kayit_Sistemi.csproj|C:\\Users\\Emre TANER\\Documents\\GitHub\\csharp-25-projects\\Not_Kayit_Sistemi\\not_kayit_sistemi\\frmogretmendetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{640EFBC0-086A-4B57-A0C9-251971DB48AA}|Not_Kayit_Sistemi\\Not_Kayit_Sistemi.csproj|solutionrelative:not_kayit_sistemi\\frmogretmendetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmOgrenciDetay.cs",
+              "DocumentMoniker": "C:\\Users\\Emre TANER\\Documents\\GitHub\\csharp-25-projects\\Not_Kayit_Sistemi\\Not_Kayit_Sistemi\\FrmOgrenciDetay.cs",
+              "RelativeDocumentMoniker": "Not_Kayit_Sistemi\\FrmOgrenciDetay.cs",
+              "ToolTip": "C:\\Users\\Emre TANER\\Documents\\GitHub\\csharp-25-projects\\Not_Kayit_Sistemi\\Not_Kayit_Sistemi\\FrmOgrenciDetay.cs",
+              "RelativeToolTip": "Not_Kayit_Sistemi\\FrmOgrenciDetay.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAuwDEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T18:58:36.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmOgrenciDetay.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Emre TANER\\Documents\\GitHub\\csharp-25-projects\\Not_Kayit_Sistemi\\Not_Kayit_Sistemi\\FrmOgrenciDetay.cs",
+              "RelativeDocumentMoniker": "Not_Kayit_Sistemi\\FrmOgrenciDetay.cs",
+              "ToolTip": "C:\\Users\\Emre TANER\\Documents\\GitHub\\csharp-25-projects\\Not_Kayit_Sistemi\\Not_Kayit_Sistemi\\FrmOgrenciDetay.cs [Design]",
+              "RelativeToolTip": "Not_Kayit_Sistemi\\FrmOgrenciDetay.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T18:58:32.764Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmGiris.cs",
+              "DocumentMoniker": "C:\\Users\\Emre TANER\\Documents\\GitHub\\csharp-25-projects\\Not_Kayit_Sistemi\\Not_Kayit_Sistemi\\FrmGiris.cs",
+              "RelativeDocumentMoniker": "Not_Kayit_Sistemi\\FrmGiris.cs",
+              "ToolTip": "C:\\Users\\Emre TANER\\Documents\\GitHub\\csharp-25-projects\\Not_Kayit_Sistemi\\Not_Kayit_Sistemi\\FrmGiris.cs",
+              "RelativeToolTip": "Not_Kayit_Sistemi\\FrmGiris.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAuwCkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T18:58:17.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmGiris.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Emre TANER\\Documents\\GitHub\\csharp-25-projects\\Not_Kayit_Sistemi\\Not_Kayit_Sistemi\\FrmGiris.cs",
+              "RelativeDocumentMoniker": "Not_Kayit_Sistemi\\FrmGiris.cs",
+              "ToolTip": "C:\\Users\\Emre TANER\\Documents\\GitHub\\csharp-25-projects\\Not_Kayit_Sistemi\\Not_Kayit_Sistemi\\FrmGiris.cs [Design]",
+              "RelativeToolTip": "Not_Kayit_Sistemi\\FrmGiris.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T18:56:55.388Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmOgretmenDetay.cs",
+              "DocumentMoniker": "C:\\Users\\Emre TANER\\Documents\\GitHub\\csharp-25-projects\\Not_Kayit_Sistemi\\Not_Kayit_Sistemi\\FrmOgretmenDetay.cs",
+              "RelativeDocumentMoniker": "Not_Kayit_Sistemi\\FrmOgretmenDetay.cs",
+              "ToolTip": "C:\\Users\\Emre TANER\\Documents\\GitHub\\csharp-25-projects\\Not_Kayit_Sistemi\\Not_Kayit_Sistemi\\FrmOgretmenDetay.cs",
+              "RelativeToolTip": "Not_Kayit_Sistemi\\FrmOgretmenDetay.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAuwGYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T20:44:52.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmOgretmenDetay.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Emre TANER\\Documents\\GitHub\\csharp-25-projects\\Not_Kayit_Sistemi\\Not_Kayit_Sistemi\\FrmOgretmenDetay.cs",
+              "RelativeDocumentMoniker": "Not_Kayit_Sistemi\\FrmOgretmenDetay.cs",
+              "ToolTip": "C:\\Users\\Emre TANER\\Documents\\GitHub\\csharp-25-projects\\Not_Kayit_Sistemi\\Not_Kayit_Sistemi\\FrmOgretmenDetay.cs [Design]",
+              "RelativeToolTip": "Not_Kayit_Sistemi\\FrmOgretmenDetay.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T20:17:46.767Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Emre TANER\\Documents\\GitHub\\csharp-25-projects\\Veri_Tabanl\u0131_Parti_Secim_Grafik_Istatistik\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9471FB4-5BD7-48D9-AB37-24EB1619AF15}|Veri_Tabanl\u0131_Parti_Secim_Grafik_Istatistik\\Veri_Tabanl\u0131_Parti_Secim_Grafik_Istatistik.csproj|c:\\users\\emre taner\\documents\\github\\csharp-25-projects\\veri_tabanl\u0131_parti_secim_grafik_istatistik\\veri_tabanl\u0131_parti_secim_grafik_istatistik\\frmgrafikler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9471FB4-5BD7-48D9-AB37-24EB1619AF15}|Veri_Tabanl\u0131_Parti_Secim_Grafik_Istatistik\\Veri_Tabanl\u0131_Parti_Secim_Grafik_Istatistik.csproj|solutionrelative:veri_tabanl\u0131_parti_secim_grafik_istatistik\\frmgrafikler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9471FB4-5BD7-48D9-AB37-24EB1619AF15}|Veri_Tabanl\u0131_Parti_Secim_Grafik_Istatistik\\Veri_Tabanl\u0131_Parti_Secim_Grafik_Istatistik.csproj|c:\\users\\emre taner\\documents\\github\\csharp-25-projects\\veri_tabanl\u0131_parti_secim_grafik_istatistik\\veri_tabanl\u0131_parti_secim_grafik_istatistik\\frmgrafikler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E9471FB4-5BD7-48D9-AB37-24EB1619AF15}|Veri_Tabanl\u0131_Parti_Secim_Grafik_Istatistik\\Veri_Tabanl\u0131_Parti_Secim_Grafik_Istatistik.csproj|solutionrelative:veri_tabanl\u0131_parti_secim_grafik_istatistik\\frmgrafikler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9471FB4-5BD7-48D9-AB37-24EB1619AF15}|Veri_Tabanl\u0131_Parti_Secim_Grafik_Istatistik\\Veri_Tabanl\u0131_Parti_Secim_Grafik_Istatistik.csproj|c:\\users\\emre taner\\documents\\github\\csharp-25-projects\\veri_tabanl\u0131_parti_secim_grafik_istatistik\\veri_tabanl\u0131_parti_secim_grafik_istatistik\\frmoygiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E9471FB4-5BD7-48D9-AB37-24EB1619AF15}|Veri_Tabanl\u0131_Parti_Secim_Grafik_Istatistik\\Veri_Tabanl\u0131_Parti_Secim_Grafik_Istatistik.csproj|solutionrelative:veri_tabanl\u0131_parti_secim_grafik_istatistik\\frmoygiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9471FB4-5BD7-48D9-AB37-24EB1619AF15}|Veri_Tabanl\u0131_Parti_Secim_Grafik_Istatistik\\Veri_Tabanl\u0131_Parti_Secim_Grafik_Istatistik.csproj|c:\\users\\emre taner\\documents\\github\\csharp-25-projects\\veri_tabanl\u0131_parti_secim_grafik_istatistik\\veri_tabanl\u0131_parti_secim_grafik_istatistik\\frmoygiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9471FB4-5BD7-48D9-AB37-24EB1619AF15}|Veri_Tabanl\u0131_Parti_Secim_Grafik_Istatistik\\Veri_Tabanl\u0131_Parti_Secim_Grafik_Istatistik.csproj|solutionrelative:veri_tabanl\u0131_parti_secim_grafik_istatistik\\frmoygiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmGrafikler.cs",
+              "DocumentMoniker": "C:\\Users\\Emre TANER\\Documents\\GitHub\\csharp-25-projects\\Veri_Tabanl\u0131_Parti_Secim_Grafik_Istatistik\\Veri_Tabanl\u0131_Parti_Secim_Grafik_Istatistik\\FrmGrafikler.cs",
+              "RelativeDocumentMoniker": "Veri_Tabanl\u0131_Parti_Secim_Grafik_Istatistik\\FrmGrafikler.cs",
+              "ToolTip": "C:\\Users\\Emre TANER\\Documents\\GitHub\\csharp-25-projects\\Veri_Tabanl\u0131_Parti_Secim_Grafik_Istatistik\\Veri_Tabanl\u0131_Parti_Secim_Grafik_Istatistik\\FrmGrafikler.cs",
+              "RelativeToolTip": "Veri_Tabanl\u0131_Parti_Secim_Grafik_Istatistik\\FrmGrafikler.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAgwHcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T20:27:39.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmGrafikler.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Emre TANER\\Documents\\GitHub\\csharp-25-projects\\Veri_Tabanl\u0131_Parti_Secim_Grafik_Istatistik\\Veri_Tabanl\u0131_Parti_Secim_Grafik_Istatistik\\FrmGrafikler.cs",
+              "RelativeDocumentMoniker": "Veri_Tabanl\u0131_Parti_Secim_Grafik_Istatistik\\FrmGrafikler.cs",
+              "ToolTip": "C:\\Users\\Emre TANER\\Documents\\GitHub\\csharp-25-projects\\Veri_Tabanl\u0131_Parti_Secim_Grafik_Istatistik\\Veri_Tabanl\u0131_Parti_Secim_Grafik_Istatistik\\FrmGrafikler.cs [Design]",
+              "RelativeToolTip": "Veri_Tabanl\u0131_Parti_Secim_Grafik_Istatistik\\FrmGrafikler.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T20:27:35.723Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmOyGiris.cs",
+              "DocumentMoniker": "C:\\Users\\Emre TANER\\Documents\\GitHub\\csharp-25-projects\\Veri_Tabanl\u0131_Parti_Secim_Grafik_Istatistik\\Veri_Tabanl\u0131_Parti_Secim_Grafik_Istatistik\\FrmOyGiris.cs",
+              "RelativeDocumentMoniker": "Veri_Tabanl\u0131_Parti_Secim_Grafik_Istatistik\\FrmOyGiris.cs",
+              "ToolTip": "C:\\Users\\Emre TANER\\Documents\\GitHub\\csharp-25-projects\\Veri_Tabanl\u0131_Parti_Secim_Grafik_Istatistik\\Veri_Tabanl\u0131_Parti_Secim_Grafik_Istatistik\\FrmOyGiris.cs",
+              "RelativeToolTip": "Veri_Tabanl\u0131_Parti_Secim_Grafik_Istatistik\\FrmOyGiris.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAuwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T20:26:10.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmOyGiris.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Emre TANER\\Documents\\GitHub\\csharp-25-projects\\Veri_Tabanl\u0131_Parti_Secim_Grafik_Istatistik\\Veri_Tabanl\u0131_Parti_Secim_Grafik_Istatistik\\FrmOyGiris.cs",
+              "RelativeDocumentMoniker": "Veri_Tabanl\u0131_Parti_Secim_Grafik_Istatistik\\FrmOyGiris.cs",
+              "ToolTip": "C:\\Users\\Emre TANER\\Documents\\GitHub\\csharp-25-projects\\Veri_Tabanl\u0131_Parti_Secim_Grafik_Istatistik\\Veri_Tabanl\u0131_Parti_Secim_Grafik_Istatistik\\FrmOyGiris.cs [Design]",
+              "RelativeToolTip": "Veri_Tabanl\u0131_Parti_Secim_Grafik_Istatistik\\FrmOyGiris.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T20:26:08.779Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

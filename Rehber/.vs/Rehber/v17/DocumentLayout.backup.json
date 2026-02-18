@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Emre TANER\\Documents\\GitHub\\csharp-25-projects\\Rehber\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2F5FF3-A076-4069-9E23-C0E13E0218B9}|Rehber\\Rehber.csproj|c:\\users\\emre taner\\documents\\github\\csharp-25-projects\\rehber\\rehber\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D2F5FF3-A076-4069-9E23-C0E13E0218B9}|Rehber\\Rehber.csproj|solutionrelative:rehber\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2F5FF3-A076-4069-9E23-C0E13E0218B9}|Rehber\\Rehber.csproj|c:\\users\\emre taner\\documents\\github\\csharp-25-projects\\rehber\\rehber\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D2F5FF3-A076-4069-9E23-C0E13E0218B9}|Rehber\\Rehber.csproj|solutionrelative:rehber\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Emre TANER\\Documents\\GitHub\\csharp-25-projects\\Rehber\\Rehber\\Form1.cs",
+              "RelativeDocumentMoniker": "Rehber\\Form1.cs",
+              "ToolTip": "C:\\Users\\Emre TANER\\Documents\\GitHub\\csharp-25-projects\\Rehber\\Rehber\\Form1.cs*",
+              "RelativeToolTip": "Rehber\\Form1.cs*",
+              "ViewState": "AgIAAEsAAAAAAAAAAAA2wHYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T17:57:41.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Emre TANER\\Documents\\GitHub\\csharp-25-projects\\Rehber\\Rehber\\Form1.cs",
+              "RelativeDocumentMoniker": "Rehber\\Form1.cs",
+              "ToolTip": "C:\\Users\\Emre TANER\\Documents\\GitHub\\csharp-25-projects\\Rehber\\Rehber\\Form1.cs [Design]*",
+              "RelativeToolTip": "Rehber\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T17:14:02.972Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Emre TANER\\Documents\\GitHub\\csharp-25-projects\\Triggers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E943AF4F-4739-4693-BC00-D8BCF9A69478}|Triggers\\Triggers.csproj|c:\\users\\emre taner\\documents\\github\\csharp-25-projects\\triggers\\triggers\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E943AF4F-4739-4693-BC00-D8BCF9A69478}|Triggers\\Triggers.csproj|solutionrelative:triggers\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E943AF4F-4739-4693-BC00-D8BCF9A69478}|Triggers\\Triggers.csproj|c:\\users\\emre taner\\documents\\github\\csharp-25-projects\\triggers\\triggers\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E943AF4F-4739-4693-BC00-D8BCF9A69478}|Triggers\\Triggers.csproj|solutionrelative:triggers\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Emre TANER\\Documents\\GitHub\\csharp-25-projects\\Triggers\\Triggers\\Form1.cs",
+              "RelativeDocumentMoniker": "Triggers\\Form1.cs",
+              "ToolTip": "C:\\Users\\Emre TANER\\Documents\\GitHub\\csharp-25-projects\\Triggers\\Triggers\\Form1.cs",
+              "RelativeToolTip": "Triggers\\Form1.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAUwFUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T07:54:52.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Emre TANER\\Documents\\GitHub\\csharp-25-projects\\Triggers\\Triggers\\Form1.cs",
+              "RelativeDocumentMoniker": "Triggers\\Form1.cs",
+              "ToolTip": "C:\\Users\\Emre TANER\\Documents\\GitHub\\csharp-25-projects\\Triggers\\Triggers\\Form1.cs [Design]",
+              "RelativeToolTip": "Triggers\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T18:55:05.583Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
