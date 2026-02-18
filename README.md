@@ -20,4 +20,4 @@ Yazılım portföyümü geliştirmek ve gerçek proje deneyimi kazanmak.
 ---
 
 👨‍💻 Geliştirici: Emre Taner  
-🔗 LinkedIn: (buraya LinkedIn ekleyebilirsin)
+🔗 LinkedIn: (www.linkedin.com/in/emre-taner-611229203)
